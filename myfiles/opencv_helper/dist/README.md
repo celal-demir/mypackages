@@ -1,3 +1,3 @@
 ## Yükleme
 ```bash
-pip install https://github.com/celal-demir/libs/raw/main/cdrhelper-0.1-py3-none-any.whl
+pip install https://github.com/celal-demir/mypackages/raw/main/myfiles/opencv_helper/dist/cdrhelper-0.1-py3-none-any.whl
