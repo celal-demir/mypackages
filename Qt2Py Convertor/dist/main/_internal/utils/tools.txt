@@ -1,0 +1,2 @@
+uic=>C:/Users/mypcd/AppData/Local/Programs/Python/Python310/Lib/site-packages/qt6_applications/Qt/bin/uic.exe
+rcc=>C:/Users/mypcd/AppData/Local/Programs/Python/Python310/Lib/site-packages/qt6_applications/Qt/bin/rcc.exe
