@@ -1,0 +1,50 @@
+#message_icon{
+max-height:80px;
+min-height:80px;
+max-width:80px;
+min-width:80px;
+
+}
+#title_wrapper{
+max-height:50px;
+min-height:50px;
+background-color:#222831;
+}
+
+#button_wrapper{
+max-height:50px;
+min-height:50px;
+}
+
+#message_label{
+	font: 500 12pt "Roboto Medium";
+}
+#dialog_close{
+max-width:30px;
+max-height:30px;
+min-height:30px;
+min-width:30px;
+border-radius:16px;
+border:2px solid black;
+}
+#dialog_close:hover{
+	background-color: #FA5252;
+}
+
+#dialog_title{
+font:14pt "Roboto Black";
+background-color:transparent;
+color:white;
+}
+
+#buttonBox QPushButton{
+max-height:40px;
+min-height:40px;
+max-width:120px;
+min-width:120px;
+font-size: 13pt;
+font-family:  "Manrope";
+font-weight:bold;
+border-radius: 5px;
+border:1px solid darkslategray;
+}

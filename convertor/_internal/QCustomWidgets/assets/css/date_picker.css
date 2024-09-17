@@ -1,0 +1,76 @@
+#title{
+background-color: rgb(24, 45, 113);
+max-height:40px;
+min-height:40px;
+
+}
+#title QLabel{
+	color: rgb(255, 255, 255);
+	font: 81 18pt "Roboto";
+	max-width:80px;
+	min-width:80px;
+	min-height:20px;
+	max-height:20px;
+	text-align:center;
+}
+#title QPushButton{
+	min-width:40px;
+	max-width:40px;
+	max-height:40px;
+	min-height:40px;
+	icon-size:30px;
+	border:none;
+
+}
+#decYearButton::pressed{
+	padding-right:5px;
+}
+#incYearButton::pressed{
+	padding-left:5px;
+}
+
+/*------------------------------------------------------------------------------------*/
+#retTodayButton{
+	max-height:30px;
+	min-height:30px;
+	icon-size:20px;
+	background-color: rgb(229, 229, 229);
+	border:none;
+	icon-size:25px;
+	font: 81 11pt "Poppins";
+	color:rgb(24, 45, 113);
+}
+/*------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------*/
+#button_container QPushButton{
+	min-width: 85px;
+	max-width: 85px;
+	min-height: 70px;
+	max-height:70px;
+	font-family: "Roboto";
+	font-weight: 300;
+	font-size: 11pt;
+	border:none;
+}
+#button_container QPushButton:hover{
+	font-family: "Roboto";
+	font-weight: 700;
+	border-radius:10px;
+	border-style: outset;
+    border-width: 4px;
+    border-color:  rgb(24, 45, 113);
+	color: rgb(24, 45, 113);
+}
+#button_container QPushButton:checked{
+	font-family: "Roboto";
+	font-weight: 700;
+	background-color: rgb(24, 45, 113);
+	border-radius:10px;
+	color: rgb(255, 255, 255);
+}
+/*------------------------------------------------------------------------------------*/
+
+
+
+
+
